@@ -210,4 +210,4 @@ SecureCRT is available as a full free version with all features and updates incl
 Ready to secure your communications? **Download SecureCRT for free today!**
 
 ---
-**Last updated:** 2026-11-13 10:18:08 UTC
+**Last updated:** 2026-11-13 18:16:25 UTC
